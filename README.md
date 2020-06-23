@@ -1,2 +1,2 @@
 # Florida-Insurance-Project
-Exploratory Data Analysis
+Exploratory Data Analysis on Florida Insurance Portfolio
